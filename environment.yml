@@ -1,0 +1,13 @@
+name: wz_prover
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - sage=10.5
+  - singular=4.4.0
+  - pip
+  - pip:
+      - flask==3.1.2
+      - werkzeug==3.1.8
+      - requests==2.32.3

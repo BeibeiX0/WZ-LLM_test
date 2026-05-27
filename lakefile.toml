@@ -1,0 +1,17 @@
+name = "WZProver"
+version = "0.1.0"
+
+
+[[lean_lib]]
+name = "WZProver"
+
+[[lean_lib]]
+name = "Theorem"
+
+[[lean_lib]]
+name = "Examples"
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.25.0"
