@@ -6,9 +6,6 @@ version = "0.1.0"
 name = "WZProver"
 
 [[lean_lib]]
-name = "Theorem"
-
-[[lean_lib]]
 name = "Examples"
 
 [[require]]

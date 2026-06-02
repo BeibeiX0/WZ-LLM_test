@@ -11,3 +11,4 @@ dependencies:
       - flask==3.1.2
       - werkzeug==3.1.8
       - requests==2.32.3
+      - pexpect==4.9.0
